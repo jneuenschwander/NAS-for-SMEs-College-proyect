@@ -1,0 +1,46 @@
+.name-file {
+    overflow-y: visible;
+}
+.name-file-a{
+    color: black;
+}
+.name-file-a:hover {
+    color: black;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.file-option-drop{
+    
+}
+.file-option-drop button{
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    border: unset;
+    background-color: unset;
+}
+.file-option-drop .btn:hover{
+    background-color: #e7e7e7;
+}
+
+.file-option-drop .btn-primary:not(:disabled):not(.disabled).active, 
+.btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle{
+    background-color: transparent;
+    
+}
+.file-option-drop btn-primary:not(:disabled):not(.disabled).active:focus, 
+.btn-primary:not(:disabled):not(.disabled):active:focus, 
+.show>.btn-primary.dropdown-toggle:focus{
+    box-shadow: unset !important;
+}
+.file-option-drop .btn-primary.focus, .btn-primary:focus {
+    background-color: transparent;
+    box-shadow: unset !important;
+}
+
+.file-option-button-svg  {
+    padding: 0%;
+    vertical-align: unset;
+    margin-right: unset;
+    
+}

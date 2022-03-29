@@ -1,0 +1,10 @@
+.view-images {
+    margin-top: 10px;
+    overflow-y: auto;
+    height: 75vh;
+    max-height: 75vh;
+}
+img {
+    max-width:100%;
+    height:auto;
+}

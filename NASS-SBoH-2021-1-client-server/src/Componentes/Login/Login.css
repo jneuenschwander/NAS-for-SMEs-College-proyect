@@ -1,0 +1,32 @@
+.Login {
+    margin-top: 12vh;
+    margin-bottom: 12vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    padding: 2%;
+    border: 1px solid #8395a7;
+    border-radius: 8px;
+    background-color: white;
+}
+
+.form-login {
+    width: 30vw;
+    height: 70vh;
+}
+
+.Logo-login {
+    width: 70px;
+    height: 70px;;
+}
+
+
+
+.App {
+    background-color: #c8d6e5;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+  }

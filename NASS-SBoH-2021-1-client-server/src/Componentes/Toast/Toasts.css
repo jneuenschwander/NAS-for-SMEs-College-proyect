@@ -1,0 +1,38 @@
+
+.toasts-container {
+    width: 90%;
+}
+
+.toast-container {
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.toast-head {
+    vertical-align: top;
+    width: 100%;
+}
+
+.abs-top-left {
+    position: absolute;
+    
+    top: 10px;
+    left: 10px;
+}
+.abs-bot-rigth {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+}
+.rel-top-left {
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+.rel-top-right {
+    position: relative;
+    top: 0px;
+    right: 0px;
+}

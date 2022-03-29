@@ -1,0 +1,53 @@
+.menu-drop { 
+    min-height: 100%;
+    height: 100%;
+}
+
+.menu-nav{
+    background-color: #2A2AE8 !important;
+}
+
+.Logo {
+    width: 40px;
+    height: 40px;
+}
+
+.icon-gear {
+    width: 40px;
+    height: 40px;
+    margin: 0;
+}
+
+/* .dropdown-toggle{
+    border-radius: .25rem;
+    border: 1px solid white;
+} */
+
+.dropdown-toggle::after {
+    display:none !important;
+    
+}
+
+.container-nav {
+    justify-content:initial;
+}
+
+.row-div {
+    width: 100%;
+}
+
+.icon-exit {
+    width: 28px;
+    height: 28px;
+    margin: 6px;
+}
+
+.button-exit {
+    padding: 4px;
+    margin-left: auto;
+}
+
+.space-div {
+    flex-grow: 1;
+    visibility: hidden;
+}
